@@ -1,4 +1,4 @@
-# 🚀 DeFi Analytics & Business Intelligence Projects
+# 🚀 DeFi Analytics & Business Intelligence Project
 
 ## 📌 Overview
 This repository contains **advanced Data Analytics and Business Intelligence project** using **SQL, Python, and Power BI**. The focus is on extracting, transforming, and visualizing data for **DeFi (Decentralized Finance), energy, and financial sectors**.  
